@@ -1,5 +1,3 @@
 add_lunch_combo aokp_droid2-userdebug
 add_lunch_combo aokp_droid2we-userdebug
 add_lunch_combo aokp_shadow-userdebug
-add_lunch_combo aokp_stingray-userdebug
-add_lunch_combo aokp_wingray-userdebug
