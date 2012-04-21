@@ -4,6 +4,7 @@ $(call inherit-product, device/motorola/shadow/shadow.mk)
 # Inherit some common aokp stuff.
 $(call inherit-product, vendor/aokp/configs/common_phone.mk)
 
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/2nd_gen
 
 #
 # Setup device specific product configuration.
