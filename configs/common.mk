@@ -24,9 +24,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Blobs common to all devices
 PRODUCT_COPY_FILES += \
     vendor/aokp/prebuilt/common/app/Superuser.apk:system/app/Superuser.apk \
-    vendor/aokp/prebuilt/common/etc/resolv.conf:system/etc/resolv.conf  \
-    vendor/aokp/prebuilt/common/app/UnicornPorn.apk:system/app/UnicornPorn.apk
-    
+    vendor/aokp/prebuilt/common/etc/resolv.conf:system/etc/resolv.conf    
 # init.d
 PRODUCT_COPY_FILES += \
     vendor/aokp/prebuilt/common/etc/init.d/00check:system/etc/init.d/00check \
