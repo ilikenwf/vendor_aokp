@@ -21,4 +21,6 @@ PRODUCT_PACKAGES += \
 
 # boot animation
 PRODUCT_COPY_FILES += \
-	vendor/aokp/prebuilt/common/media/bootanimation.zip:system/media/bootanimation.zip
+	vendor/aokp/prebuilt/bootanimation/bootanimation_480_854.zip:system/media/bootanimation.zip
+
+DEVICE_PACKAGE_OVERLAYS += vendor/aokp/overlay/2nd_gen
