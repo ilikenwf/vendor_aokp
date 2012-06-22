@@ -1,5 +1,4 @@
 $(call inherit-product, vendor/aokp/configs/common.mk)
 
-PRODUCT_COPY_FILES +=      
-    
-    
+# Inherit drm blobs
+-include vendor/aokp/configs/common_drm_phone.mk
