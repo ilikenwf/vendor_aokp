@@ -1,2 +1,1 @@
-add_lunch_combo aokp_droid2-userdebug
 add_lunch_combo aokp_tenderloin-userdebug
