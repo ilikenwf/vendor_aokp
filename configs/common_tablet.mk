@@ -14,5 +14,4 @@ PRODUCT_PACKAGES += \
         LiveWallpapersPicker
 
 # Inherit drm blobs
--include vendor/aokp/configs/common_drm_phone.mk
-
+-include vendor/aokp/configs/common_drm_tablet.mk
