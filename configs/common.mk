@@ -62,7 +62,7 @@ PRODUCT_COPY_FILES += \
 # Live Wallpapers for all
 PRODUCT_PACKAGES += \
     LiveWallpapers \
-    LiveWallpapersPicker
+    LiveWallpapersPicker \
     VisualizationWallpapers \
     librs_jni
 
